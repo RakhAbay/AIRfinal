@@ -1,0 +1,18 @@
+.navbar {
+    background-color: #112e54;
+    display: flex;
+    flex-direction: row;
+}
+
+.nav-item {
+    margin-left: 10px;
+    color: white;
+}
+
+.ref:hover {
+
+    text-decoration: none;
+}
+.ref {
+    color: white;
+}
